@@ -1,0 +1,90 @@
+[
+    {
+        "Sample_Resume": [
+            {
+                "Your_Details": {
+                    "Photo": "",
+                    "Job_Title": "Your Designation"
+                },
+                "Your_Personal_Details": [
+                    {
+                        "Name": "Your Name",
+                        "DOB": "Your DOB",
+                        "Email_Id": "Your email-id",
+                        "Phone": "Your Number",
+                        "Location": [
+                            {
+                                "Address": "Your address",
+                                "Postal_Code": "PostalCode(Zip)",
+                                "City": "Your current city",
+                                "State": "Your State",
+                                "Country": "Your Country Name"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "Personal_Summary": "Write About your skillsets and problem solving technics in simple manner",
+        "Work_Experience": [
+            {
+                "Second_Comapany": {
+                    "Company_Name": "Name",
+                    "Position": "Your job title",
+                    "Website": "Company Website",
+                    "Start_Date": "Your Start Date",
+                    "End_Date": "Your releving Data(Leave blank for a current position)",
+                    "Summary": "Summarize your work Experience in simple manner",
+                    "Highlights": "listout your achievements"
+                },
+                "First_Company": {
+                    "Company_Name": "Name",
+                    "Position": "Your job title",
+                    "Website": "Company Website",
+                    "Start_Date": "Your Start Date",
+                    "End_Date": "Your releving Data",
+                    "Summary": "Summarize your work Experience in simple manner",
+                    "Highlights": "listout your achievements"
+                }
+            }
+        ],
+        "Course": "Write the keyword about the relevant courses",
+        "Course_Details": {
+            "Name_Of_Course": "Your Completed Course Name",
+            "Period_Of_Course": "Time Period of Course",
+            "Grade_Of_Course": "Your Grade of the Course"
+        },
+        "Education_Background": [
+            {
+                "UnderGraduation": {
+                    "InstitutionName": "Name of the Institute",
+                    "Department": "Your Department",
+                    "BatchStart": "Joining data and year",
+                    "BatchClosing": "Passedout year and date",
+                    "CGPA": "Your CGPA",
+                    "Course": "Your course Details"
+                },
+                "Secondary_And_HigherSecondary_Schooling": {
+                    "School_Name": "Your School Name",
+                    "Groups": "Your Group details(maths or science)",
+                    "Start_Year": "Joining date and year",
+                    "Ending_Year": "Finishing school year",
+                    "Percentage": "Your Percentage in Final"
+                }
+            }
+        ],
+        "Skillset": {
+            "Name": "Category of skill",
+            "Level": "",
+            "Keywords": "tell about this category knowledge"
+        },
+        "Languages": {
+            "Known_Languages": "Language name",
+            "Fluency_Level": "Your fluency level"
+        },
+        "Interest": {
+            "Name_Of_Interests": "Categorize your interests",
+            "Keywords": "keyword about your interests"
+        }
+    }
+]
